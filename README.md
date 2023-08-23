@@ -5,7 +5,6 @@ commit 1  add
 commit 2 add 34
 33333333
 44444444
-<<<<<<< HEAD
 commit 3 add 5
 55555555
 66666666
